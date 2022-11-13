@@ -11,4 +11,8 @@ public class Hello {
     private void displayFeature2(){
         System.out.println("Feature 2");
     }
+
+    private void displayFeature22(){
+        System.out.println("Feature 22");
+    }
 }
